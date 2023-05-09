@@ -24,7 +24,7 @@ const Product = (props: ProductProps) => {
         <div className='flex flex-col text-left p-4 z-[5] max-w-[600px]'>
             
             <h1 className='text-2xl '>We are partners with major Pharmarceutical companies</h1>
-            <h2 className='text-xl mt-4'>you get the list of partner pharmacies, providing users with information about the pharmacies' locations, hours of operation, and available services.</h2>
+            <h2 className='text-xl mt-4'>you get the list of partner pharmacies, providing users with information about the pharmacies locations, hours of operation, and available services.</h2>
         </div>
         </div>
         </div>
